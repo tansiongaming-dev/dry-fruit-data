@@ -1,5 +1,14 @@
 {
-  "products": [],
+  "products": [
+    {
+      "id": 1,
+      "name": "gift box",
+      "price": 1099,
+      "code": "00000",
+      "category": "Nuts",
+      "photo": "https:\/\/res.cloudinary.com\/l6z5dc83\/image\/upload\/v1793290426\/v9zbr6jnqat398nuw8uh.jpg"
+    }
+  ],
   "discount": {
     "text": "",
     "percent": 0,

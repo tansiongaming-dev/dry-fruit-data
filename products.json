@@ -65,6 +65,14 @@
       "photo": "https:\/\/res.cloudinary.com\/l6z5dc83\/image\/upload\/v1793276695\/x3nmubrujhmfaf5wl1db.jpg"
     },
     {
+      "id": 27,
+      "name": "shop",
+      "price": 1245,
+      "code": "88",
+      "category": "Seeds",
+      "photo": "https:\/\/res.cloudinary.com\/l6z5dc83\/image\/upload\/v1793276933\/oley4gwgpd65zfqscsle.jpg"
+    },
+    {
       "id": 23,
       "name": "Walnut kernels",
       "price": 2300,

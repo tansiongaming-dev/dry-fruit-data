@@ -1,6 +1,14 @@
 {
   "products": [
     {
+      "id": 26,
+      "name": "abc",
+      "price": 123456,
+      "code": "0000",
+      "category": "Berries",
+      "photo": "https:\/\/res.cloudinary.com\/l6z5dc83\/image\/upload\/v1793276820\/qgeicewvkr53elo58zly.jpg"
+    },
+    {
       "id": 20,
       "name": "Almond Jumbo",
       "price": 1660,

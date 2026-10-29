@@ -88,5 +88,10 @@
       "category": "Nuts",
       "photo": "https:\/\/res.cloudinary.com\/l6z5dc83\/image\/upload\/v1793276740\/ktvvher4qu5njhx49pr0.jpg"
     }
-  ]
+  ],
+  "discount": {
+    "text": "Flat 10% Off on 1KG",
+    "percent": "5",
+    "min_amount": "5000"
+  }
 }

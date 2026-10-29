@@ -9,6 +9,14 @@
       "photo": ""
     },
     {
+      "id": 16,
+      "name": "kala",
+      "price": 123456,
+      "code": "1234",
+      "category": "Nuts",
+      "photo": "https:\/\/res.cloudinary.com\/l6z5dc83\/image\/upload\/v1793275939\/mtioos7w8yaizrxcsigq.jpg"
+    },
+    {
       "id": 12,
       "name": "pecan nuts",
       "price": 2950,

@@ -75,7 +75,7 @@
   ],
   "discount": {
     "text": "🎉 SPECIAL OFFER – DRY FRUIT HOUSE 🎉\n\n🛍️ Dear Customer,\n\n💥 Ab ₹5,000 ki shopping par paaiye 5% OFF! 🎁\n\n💰 ₹5,000 ki shopping par seedha ₹250 ki bachat!\n\n❤️ Aaj hi visit karein DRY FRUIT HOUSE aur shopping ka maza uthayein savings ke saath!\n\n🙏 Thank you for shopping with us! 🏠",
-    "percent": "5",
-    "min_amount": "4000"
+    "percent": 5,
+    "min_amount": 4000
   }
 }

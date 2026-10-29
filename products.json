@@ -1,14 +1,6 @@
 {
   "products": [
     {
-      "id": 26,
-      "name": "abc",
-      "price": 123456,
-      "code": "0000",
-      "category": "Berries",
-      "photo": "https:\/\/res.cloudinary.com\/l6z5dc83\/image\/upload\/v1793276820\/qgeicewvkr53elo58zly.jpg"
-    },
-    {
       "id": 20,
       "name": "Almond Jumbo",
       "price": 1660,
@@ -63,14 +55,6 @@
       "code": "113",
       "category": "Nuts",
       "photo": "https:\/\/res.cloudinary.com\/l6z5dc83\/image\/upload\/v1793276695\/x3nmubrujhmfaf5wl1db.jpg"
-    },
-    {
-      "id": 27,
-      "name": "shop",
-      "price": 1245,
-      "code": "88",
-      "category": "Seeds",
-      "photo": "https:\/\/res.cloudinary.com\/l6z5dc83\/image\/upload\/v1793276933\/oley4gwgpd65zfqscsle.jpg"
     },
     {
       "id": 23,

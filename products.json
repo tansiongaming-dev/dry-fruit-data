@@ -1,6 +1,30 @@
 {
   "products": [
     {
+      "id": 15,
+      "name": "gift",
+      "price": 5000,
+      "code": "797979",
+      "category": "Other",
+      "photo": ""
+    },
+    {
+      "id": 12,
+      "name": "pecan nuts",
+      "price": 2950,
+      "code": "57",
+      "category": "Nuts",
+      "photo": ""
+    },
+    {
+      "id": 13,
+      "name": "peri peri Vagetables",
+      "price": 1350,
+      "code": "239",
+      "category": "Other",
+      "photo": ""
+    },
+    {
       "id": 9,
       "name": "Pista Akbari",
       "price": 2440,
@@ -13,6 +37,22 @@
       "name": "pista plain",
       "price": 3800,
       "code": "113",
+      "category": "Nuts",
+      "photo": ""
+    },
+    {
+      "id": 14,
+      "name": "Raisins Indian",
+      "price": 640,
+      "code": "63",
+      "category": "Other",
+      "photo": ""
+    },
+    {
+      "id": 11,
+      "name": "walnut Whole",
+      "price": 2650,
+      "code": "102",
       "category": "Nuts",
       "photo": ""
     }

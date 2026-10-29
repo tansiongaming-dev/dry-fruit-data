@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Dry Fruit House - Kolkata (Main)",
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "whatsapp": "916002733901",
+    "products_url": "https://raw.githubusercontent.com/tansiongaming-dev/dry-fruit-data/main/products.json",
+    "discount": {
+      "text": "Flat 10% Off on 1KG",
+      "percent": 10,
+      "min_amount": 1000
+    }
+  },
+  {
+    "name": "Dry Fruit House - Delhi",
+    "lat": 28.7041,
+    "lng": 77.1025,
+    "whatsapp": "919876543210",
+    "products_url": "https://raw.githubusercontent.com/manager-delhi/repo-name/main/products.json",
+    "discount": {
+      "text": "5% Off on ₹5000",
+      "percent": 5,
+      "min_amount": 5000
+    }
+  }
+]

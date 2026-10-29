@@ -1,3 +1,76 @@
 {
-  "products": []
+  "products": [
+    {
+      "id": 20,
+      "name": "Almond Jumbo",
+      "price": 1660,
+      "code": "4",
+      "category": "Nuts",
+      "photo": "https:\/\/res.cloudinary.com\/l6z5dc83\/image\/upload\/v1793276570\/ddrgvxpxsog6he8mpwcv.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Almond Regular",
+      "price": 1360,
+      "code": "1",
+      "category": "Nuts",
+      "photo": "https:\/\/res.cloudinary.com\/l6z5dc83\/image\/upload\/v1793276607\/r4qnlfgfnqogn7tao9k7.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Almond Sonora",
+      "price": 1940,
+      "code": "2",
+      "category": "Nuts",
+      "photo": "https:\/\/res.cloudinary.com\/l6z5dc83\/image\/upload\/v1793276521\/o8nrtlmuszts7an9khjm.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Mamra",
+      "price": 4700,
+      "code": "3",
+      "category": "Nuts",
+      "photo": "https:\/\/res.cloudinary.com\/l6z5dc83\/image\/upload\/v1793276639\/ydzcohej8oukc9disbpm.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Pista Akbari",
+      "price": 2440,
+      "code": "62",
+      "category": "Nuts",
+      "photo": "https:\/\/res.cloudinary.com\/l6z5dc83\/image\/upload\/v1793276417\/yhgpjnfdkwqepskdi8xx.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Pista California",
+      "price": 2340,
+      "code": "61",
+      "category": "Nuts",
+      "photo": "https:\/\/res.cloudinary.com\/l6z5dc83\/image\/upload\/v1793276454\/guypubjxwwqwvepnsmkf.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Pista plain",
+      "price": 3800,
+      "code": "113",
+      "category": "Nuts",
+      "photo": "https:\/\/res.cloudinary.com\/l6z5dc83\/image\/upload\/v1793276695\/x3nmubrujhmfaf5wl1db.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Walnut kernels",
+      "price": 2300,
+      "code": "101",
+      "category": "Nuts",
+      "photo": "https:\/\/res.cloudinary.com\/l6z5dc83\/image\/upload\/v1793276667\/wh7kxotyhngu9xpo0gdr.jpg"
+    },
+    {
+      "id": 25,
+      "name": "walnut whole",
+      "price": 1650,
+      "code": "102",
+      "category": "Nuts",
+      "photo": "https:\/\/res.cloudinary.com\/l6z5dc83\/image\/upload\/v1793276740\/ktvvher4qu5njhx49pr0.jpg"
+    }
+  ]
 }

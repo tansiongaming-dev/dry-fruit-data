@@ -39,6 +39,22 @@
       "code": "62",
       "category": "Other",
       "photo": "\/data\/user\/0\/com.dryfruithouse.app\/files\/product_photos\/product_1793214573781.jpg"
+    },
+    {
+      "id": 7,
+      "name": "pista plane",
+      "price": 3800,
+      "code": "113",
+      "category": "Nuts",
+      "photo": "\/data\/user\/0\/com.dryfruithouse.app\/files\/product_photos\/product_1793263380813.jpg"
+    },
+    {
+      "id": 8,
+      "name": "walnut whole",
+      "price": 2650,
+      "code": "102",
+      "category": "Nuts",
+      "photo": "\/data\/user\/0\/com.dryfruithouse.app\/files\/product_photos\/product_1793263447708.jpg"
     }
   ]
 }

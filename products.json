@@ -7,6 +7,14 @@
       "code": "00000",
       "category": "Nuts",
       "photo": "https:\/\/res.cloudinary.com\/l6z5dc83\/image\/upload\/v1793290426\/v9zbr6jnqat398nuw8uh.jpg"
+    },
+    {
+      "id": 2,
+      "name": "not",
+      "price": 5000,
+      "code": "f",
+      "category": "Nuts",
+      "photo": "https:\/\/res.cloudinary.com\/l6z5dc83\/image\/upload\/v1793290578\/nrrrphht9tteflru5zol.jpg"
     }
   ],
   "discount": {

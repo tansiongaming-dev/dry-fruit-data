@@ -1,18 +1,9 @@
 {
-  "products": [
-    {
-      "id": 1,
-      "name": "kaka",
-      "price": 4646,
-      "code": "hdjd",
-      "category": "Nuts",
-      "photo": "https:\/\/res.cloudinary.com\/l6z5dc83\/image\/upload\/v1793352524\/kfatogljga9azlf1xi67.jpg"
-    }
-  ],
+  "products": [],
   "discount": {
-    "text": "No discount",
-    "percent": 5,
-    "min_amount": 5000
+    "text": "",
+    "percent": 0,
+    "min_amount": 0
   },
   "home_delivery": true,
   "shop_is_open": true,

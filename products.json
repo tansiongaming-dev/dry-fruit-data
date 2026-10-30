@@ -22,5 +22,5 @@
     "percent": 5,
     "min_amount": 5000
   },
-  "home_delivery": false
+  "home_delivery": true
 }

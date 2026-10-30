@@ -18,9 +18,9 @@
     }
   ],
   "discount": {
-    "text": "",
-    "percent": 0,
-    "min_amount": 0
+    "text": "DRY FRUIT HOUSE\nEAT HEALTHY ❤️\nSPECIAL OFFERS!\nPremium Dry Fruits\nGift Hampers 🎁\nHealthy Snacks\nCOME IN & EXPLORE!\nYour Health, Our Priority",
+    "percent": 5,
+    "min_amount": 5000
   },
   "home_delivery": true,
   "shop_is_open": true,

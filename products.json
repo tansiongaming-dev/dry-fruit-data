@@ -21,5 +21,6 @@
     "text": "5000 pe 5% off",
     "percent": 5,
     "min_amount": 5000
-  }
+  },
+  "home_delivery": false
 }

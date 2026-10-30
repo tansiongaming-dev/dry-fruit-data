@@ -1,29 +1,12 @@
 {
-  "products": [
-    {
-      "id": 3,
-      "name": "gift box",
-      "price": 500,
-      "code": "501358",
-      "category": "Gifts Box",
-      "photo": "https:\/\/res.cloudinary.com\/l6z5dc83\/image\/upload\/v1793317893\/iiohxyqnbjuc5n9d1qwx.jpg"
-    },
-    {
-      "id": 2,
-      "name": "not",
-      "price": 5000,
-      "code": "f",
-      "category": "Nuts",
-      "photo": "https:\/\/res.cloudinary.com\/l6z5dc83\/image\/upload\/v1793290578\/nrrrphht9tteflru5zol.jpg"
-    }
-  ],
+  "products": [],
   "discount": {
-    "text": "buy 5000 get 5% off",
+    "text": "No discount",
     "percent": 5,
     "min_amount": 5000
   },
   "home_delivery": true,
   "shop_is_open": true,
   "delivery_charge": 0,
-  "upi_id": "jibonchatry77@oksbi"
+  "upi_id": ""
 }

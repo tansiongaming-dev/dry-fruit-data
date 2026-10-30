@@ -22,5 +22,8 @@
     "percent": 5,
     "min_amount": 5000
   },
-  "home_delivery": true
+  "home_delivery": true,
+  "shop_is_open": true,
+  "delivery_charge": 0,
+  "upi_id": "jibonchatry77@oksbi"
 }

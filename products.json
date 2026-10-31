@@ -1,6 +1,14 @@
 {
   "products": [
     {
+      "id": 6,
+      "name": "almond",
+      "price": 1500,
+      "code": "2",
+      "category": "Nuts",
+      "photo": "https:\/\/res.cloudinary.com\/l6z5dc83\/image\/upload\/v1793437217\/dasjpqov45tr1sejosjk.jpg"
+    },
+    {
       "id": 5,
       "name": "gift box",
       "price": 1090,

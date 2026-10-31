@@ -1,22 +1,5 @@
 {
-  "products": [
-    {
-      "id": 1,
-      "name": "gift 🎁",
-      "price": 1568,
-      "code": "501310",
-      "category": "Gifts Box",
-      "photo": "https:\/\/res.cloudinary.com\/l6z5dc83\/image\/upload\/v1793363142\/drqx1l7qbawbeyegyhnq.jpg"
-    },
-    {
-      "id": 2,
-      "name": "Gift 🎁",
-      "price": 1082,
-      "code": "501572",
-      "category": "Gifts Box",
-      "photo": "https:\/\/res.cloudinary.com\/l6z5dc83\/image\/upload\/v1793363222\/wuz3nuhxfivrfqu2hsfi.jpg"
-    }
-  ],
+  "products": [],
   "discount": {
     "text": "DRY FRUIT HOUSE\nSPECIAL SHOPPING OFFER\nFLAT 5% OFF\nON PURCHASE OF ₹5,000 OR MORE\nSHOP MORE • SAVE MORE!\nStep Inside & Explore Our Premium Collection ❤️\nTerms & Conditions Apply",
     "percent": 5,

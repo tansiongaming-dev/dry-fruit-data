@@ -7,6 +7,14 @@
       "code": "501355",
       "category": "Gifts Box",
       "photo": "https:\/\/res.cloudinary.com\/l6z5dc83\/image\/upload\/v1793429990\/pgptx8bgqegczxwqmgzk.jpg"
+    },
+    {
+      "id": 4,
+      "name": "gift 🎁",
+      "price": 5000,
+      "code": "501525",
+      "category": "Gifts Box",
+      "photo": "https:\/\/res.cloudinary.com\/l6z5dc83\/image\/upload\/v1793432765\/g6jm3rx2lwms7hnhfdnm.jpg"
     }
   ],
   "discount": {

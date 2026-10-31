@@ -1,20 +1,12 @@
 {
   "products": [
     {
-      "id": 3,
-      "name": "Gift box",
-      "price": 1950,
-      "code": "501355",
+      "id": 5,
+      "name": "jiban boral",
+      "price": 1090,
+      "code": "22222",
       "category": "Gifts Box",
-      "photo": "https:\/\/res.cloudinary.com\/l6z5dc83\/image\/upload\/v1793429990\/pgptx8bgqegczxwqmgzk.jpg"
-    },
-    {
-      "id": 4,
-      "name": "gift 🎁",
-      "price": 5000,
-      "code": "501525",
-      "category": "Gifts Box",
-      "photo": "https:\/\/res.cloudinary.com\/l6z5dc83\/image\/upload\/v1793432765\/g6jm3rx2lwms7hnhfdnm.jpg"
+      "photo": "https:\/\/res.cloudinary.com\/l6z5dc83\/image\/upload\/v1793435216\/mefaple8ysi54v8xafe4.jpg"
     }
   ],
   "discount": {
